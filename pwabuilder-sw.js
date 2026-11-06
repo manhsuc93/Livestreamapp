@@ -1,1 +1,3 @@
-self.addEventListener('fetch', (event) => {});
+self.addEventListener('fetch', function (event) {
+  // Service Worker active
+});
