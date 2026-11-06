@@ -1,6 +1,6 @@
 {
-  "id": "com.studiolive.app",
-  "name": "Web Studio Live",
+  "id": "/Livestreambysucapp/",
+  "name": "Studio Live By Suc",
   "short_name": "StudioLive",
   "description": "Ứng dụng livestream chuyên nghiệp trên nền web",
   "start_url": "Studio_Livestream.html",
@@ -22,7 +22,7 @@
       "sizes": "512x512",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Giao diện Livestream"
+      "label": "Giao diện chính ứng dụng"
     }
   ]
 }
