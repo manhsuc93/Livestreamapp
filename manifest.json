@@ -1,16 +1,12 @@
 {
   "id": "./",
-  "name": "Live Stream By Suc",
-  "short_name": "Live Stream",
-  "description": "Studio livestream trên web với camera, micro và lớp phủ nội dung.",
-  "lang": "vi-VN",
-  "start_url": "./Studio_Livestream.html",
+  "name": "Livestream Studio",
+  "short_name": "Live Studio",
+  "description": "Livestream Studio giúp xem trước camera, tạo banner, logo và chữ chạy cho buổi phát trực tiếp.",
+  "lang": "vi",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "display_override": [
-    "standalone",
-    "minimal-ui"
-  ],
   "orientation": "any",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
@@ -41,18 +37,15 @@
   ],
   "screenshots": [
     {
-      "src": "./screenshots/screenshot-mobile.png",
-      "sizes": "540x960",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Giao diện studio trên điện thoại"
-    },
-    {
-      "src": "./screenshots/screenshot-desktop.png",
+      "src": "./screenshots/studio-wide.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Giao diện studio trên máy tính"
-    }
-  ]
-}
+      "label": "Màn hình Livestream Studio"
+    },
+    {
+      "src": "./screenshots/studio-narrow.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Livestream Studio trên điện thoại"
