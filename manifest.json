@@ -1,6 +1,7 @@
 {
   "name": "Web Studio Live",
   "short_name": "StudioLive",
+  "description": "Ứng dụng livestream chuyên nghiệp trên nền web",
   "start_url": "Studio_Livestream.html",
   "display": "standalone",
   "background_color": "#0f172a",
