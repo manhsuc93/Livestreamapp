@@ -1,16 +1,16 @@
 {
-  "name": "Web Studio Live",
   "short_name": "StudioLive",
+  "name": "Web Studio Live",
   "description": "Ứng dụng livestream chuyên nghiệp trên nền web",
-  "start_url": "Studio_Livestream.html",
-  "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#2563eb",
   "icons": [
     {
       "src": "https://cdn-icons-png.flaticon.com/512/1179/1179069.png",
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "start_url": "Studio_Livestream.html",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#0f172a"
 }
